@@ -1,1 +1,8 @@
-Hallo, dit is hku.one.
+Welcome to the hku.one wiki. This wiki aims to become a central (decentralized) place to find...
+
+* [[communities]]
+* [[events]]
+
+
+
+Want to contribute to the wiki [[contributing]].
