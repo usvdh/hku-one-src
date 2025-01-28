@@ -1,4 +1,4 @@
-At the moment, digital frontier is hosted using GitHub pages. This means that only a static version of the site is currently available, with no way to contribute through the browser.
+At the moment, hku.one is hosted using GitHub pages. This means that only a static version of the site is currently available, with no way to contribute through the browser.
 
 If you want to contribute, the only way (at the moment) is to clone the git repositories from the [GitHub repo](https://github.com/digitalfrontiercc/digitalfrontiercc_root), edit/make markdown files, and open a pull request. 
 
