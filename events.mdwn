@@ -1,16 +1,16 @@
 Events!
 
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-03-04-rills.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-25-bach.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-16-play.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-pretour.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-object.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-09-superbowl.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-07-rapmeets.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-moedt.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-ghay.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-01-31-cleanfield.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-01-29-theosophy.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-01-24-classof2025.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-01-22-vansteenvansuiker.jpg?raw=true)
-![event](https://github.com/usvdh/hku.one.photos/blob/main/2025-01-11-franx.jpg?raw=true)
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-11-franx.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-22-vansteenvansuiker.jpg?raw=true" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-24-classof2025.jpg?raw=true" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-29-theosophy.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-31-cleanfield.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-ghay.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-moedt.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-07-rapmeets.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-09-superbowl.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-object.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-pretour.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-16-play.jpg?raw=true" alt="drawing" width="300"/> 
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-25-bach.jpg?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-03-04-rills.jpg?raw=true" alt="drawing" width="300"/>
