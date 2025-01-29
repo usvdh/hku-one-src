@@ -9,3 +9,9 @@ html * {
 html {
     padding: 10px;
 }
+
+.smallestPC { font-size: 100%; }
+.smallPC { font-size: 115%; }
+.normalPC { font-size: 130%; }
+.bigPC { font-size: 145%; }
+.biggestPC { font-size: 165%; }
