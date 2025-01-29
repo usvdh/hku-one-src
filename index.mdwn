@@ -2,6 +2,8 @@ Welcome to the hku.one wiki. This wiki aims to become a central (decentralized) 
 
 * [[communities]]
 * [[events]]
+* [[hku_support_initiatives]]
+* [[places & spaces|placesspaces]]
 
 
 
