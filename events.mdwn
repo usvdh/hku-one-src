@@ -1,16 +1,33 @@
 Events!
 
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-11-franx.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-22-vansteenvansuiker.jpg?raw=true" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-24-classof2025.jpg?raw=true" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-29-theosophy.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-01-31-cleanfield.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-ghay.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-06-moedt.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-07-rapmeets.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-09-superbowl.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-object.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-14-pretour.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-16-play.jpg?raw=true" alt="drawing" width="300"/> 
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-02-25-bach.jpg?raw=true" alt="drawing" width="300"/>
-<img src="https://github.com/usvdh/hku.one.photos/blob/main/2025-03-04-rills.jpg?raw=true" alt="drawing" width="300"/>
+<!-- <script>
+    const fs = require("fs");
+    fs.readdirSync(".assets/events/").forEach(file => {
+    //Print file name
+    console.log(file)
+
+    document.getElementById("placeholder").innerHTML += "<img src='assets/events/"+ file + "' width="300"/>";
+    })
+</script>
+
+<div id="placeholder" /> -->
+
+<img src="assets/events/2025-01-11-franx.jpg" alt="drawing" width="300"/>
+<img src="assets/events/2025-01-22-vansteenvansuiker.jpg?raw=true" width="300"/>
+<img src="assets/events/2025-01-24-classof2025.jpg?raw=true" width="300"/>
+<img src="assets/events/2025-01-29-theosophy.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-01-31-cleanfield.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-01-ag.jpg?raw=true" alt="drawing" width="300"/>\
+<img src="assets/events/2025-02-05-performancebar.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-06-ghay.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-06-moedt.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-07-rapmeets.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-09-superbowl.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-12-wg.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-14-object.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-14-pretour.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-16-play.jpg?raw=true" alt="drawing" width="300"/> 
+<img src="assets/events/2025-02-25-albumrelease.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-02-25-bach.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-03-04-rills.jpg?raw=true" alt="drawing" width="300"/>
+<img src="assets/events/2025-03-08-ubuntu.jpg?raw=true" alt="drawing" width="300"/>
