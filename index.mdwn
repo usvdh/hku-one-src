@@ -11,4 +11,4 @@ This wiki aims to become a decentralized platform for and by HKU students to fin
 * [[student_tips_and_tricks]] - tips & tricks by HKU students
 * [[places_and_spaces]] - places & spaces in and around HKU
 
-Want to contribute to the wiki? See [[contributing]].
+Want to contribute to the wiki? See [[contributing]]. Also see [[roadmap]].
